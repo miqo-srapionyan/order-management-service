@@ -1,0 +1,4 @@
+.idea
+node-product-service/node_modules
+php-order-service/vendor
+php-order-service/.env
