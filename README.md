@@ -34,8 +34,8 @@ Each service has its own README.md with setup instructions:
 Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone git@github.com:miqo-srapionyan/order-management-service.git
+cd order-management-service
 ```
 
 Follow the individual service setup instructions provided in their respective folders.
