@@ -26,8 +26,8 @@ Both services work together to demonstrate basic order creation, product retriev
 ```
 
 Each service has its own README.md with setup instructions:
-- PHP Order Service Setup
-- Node.js Product Service Setup
+- [PHP Order Service Setup](./php-order-service/README.md)
+- [Node.js Product Service Setup](./node-product-service/README.md)
 
 ## 🚀 Getting Started
 
